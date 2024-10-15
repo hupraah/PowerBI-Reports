@@ -14,7 +14,7 @@ File: hranalytics_attrition_petrahuszti.pbix
 Overview: A deep dive into voluntary attrition trends over several years, with insights into employee tenure, attrition by division, and turnover drivers. This report also includes recommendations for improving employee retention and streamlining HR strategies.
   
 3. CV  
-File: Resume (PDF)  
+File: PetraHuszti_CV_2024.pdf 
 Overview: My CV provides an overview of my professional experience in data analysis, business intelligence, and reporting using Power BI, as well as my technical skills in Python, SQL, and other data science tools. I recently completed a Data Science Bootcamp, adding machine learning, data manipulation, and statistical analysis to my skill set.
   
 Key Skills Demonstrated  
