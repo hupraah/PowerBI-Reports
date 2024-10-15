@@ -6,7 +6,7 @@ My expertise includes not only Power BI but also Python and SQL, gained through 
 
 Included Files  
 1. Recruitment Analytics Report  
-File: Recruitment Analytics Report (PDF)  
+File: recruitmentanalytics_petrahuszti.pbix  
 Overview: This report analyzes key recruitment KPIs such as the number of positions, total applicants, time to fill, time to hire, and offer acceptance rates. Visualizations break down data by business units and recruitment sources to identify key trends and areas for improvement.
   
 2. HR Analytics Attrition Report  
